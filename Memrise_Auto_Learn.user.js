@@ -1,4 +1,18 @@
 // ==UserScript==
+// @name         New Userscript
+// @namespace    http://tampermonkey.net/
+// @version      0.1
+// @description  try to take over the world!
+// @author       You
+// @match        https://app.memrise.com/course/953348/aqa-2016-onwards-gcse-german-vocabulary/garden/learn/?recommendation_id=d6dd8dee-b187-432e-b869-4f32dde94bd7&source_element=scb&source_screen=eos
+// @grant        none
+// ==/UserScript==
+
+(function() {
+    'use strict';
+
+    // Your code here...
+})();// ==UserScript==
 // @name           Memrise Auto Learn
 // @namespace      https://github.com/cooljingle
 // @description    Fast-track the growth level of words you are planting
